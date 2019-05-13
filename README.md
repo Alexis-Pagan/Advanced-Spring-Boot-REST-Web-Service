@@ -11,3 +11,7 @@ This is the Advanced version for Training Evertec, Inc., on Spring Boot REST ser
 3] Loggin aspect is on process of development.
 4] Integration testing will be conducted using Spring features: WebMvcTest.
 5] Functional testing using POSTMAN.
+
+```
+NOTE: Maintain by Alexis Garcia
+```
